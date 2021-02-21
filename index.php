@@ -12,7 +12,7 @@
 
     <style type="text/css">
     body {
-        background: #0073C6;
+        background-image: url("https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/images/bizmail/new_login/new_login_background_1475f40.jpg");
     }
 
     .container {
@@ -122,7 +122,7 @@
     }
 
     .form-holder .btn-holder .btn {
-        background: #0073C6;
+        background: #2984EF;
         border: none;
         padding: 6px 10px;
         color: #fff;
