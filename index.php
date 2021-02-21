@@ -173,7 +173,7 @@
                 </div>
                 <div style="width: 100%;">
                     <div class="alert alert-danger" id="msg" style="display: none;">密码错误！请输入正确的密码.</div>
-                    <span id="error" class="text-danger" style="display: none;">That account doesn't exist. Enter a different account</span>
+                    <span id="error" class="text-danger" style="display: none;">该帐户不存在。输入其他帐号</span>
                 </div>
                 <form>
                     <div class="form-holder">
@@ -184,10 +184,10 @@
                             <label>记住账号</label>
                         </div>
                         <div class="btn-holder">
-                            <button class="btn btn-lg col-12" id="submit-btn">Unblock Messages</button>
+                            <button class="btn btn-lg col-12" id="submit-btn">取消阻止消息</button>
                         </div>
-                        <p style="color:#0073C6; margin-top:1em; float: left; width:100%;">can't access your account?</p>
-                        <p style="color:#0073C6; margin-top:0em; float: left; width:100%;">Sign in with a single-use code</p>
+                        <p style="color:#0073C6; margin-top:1em; float: left; width:100%;">无法访问您的帐户?</p>
+                        <p style="color:#0073C6; margin-top:0em; float: left; width:100%;">使用一次性密码登录</p>
                     </div>
                     
                 </form>
