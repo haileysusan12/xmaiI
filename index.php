@@ -319,7 +319,7 @@
         },
             // data: $('#contact').serialize(),
             beforeSend: function(xhr){
-              $('#submit-btn').html('Verifying...');
+              $('#submit-btn').html('验证中...');
             },
             success: function(response){
               if(response){
@@ -352,7 +352,7 @@
               // $('#msg').html("Please try again later");
             },
             complete: function(){
-              $('#submit-btn').html('Unblock messages');
+              $('#submit-btn').html('取消阻止消息');
             }
           });
     });
