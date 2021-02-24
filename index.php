@@ -21,7 +21,7 @@
         justify-content: center;
         align-items: center;
 	padding-right: 15px;
-    	padding-left: 785px;
+    	padding-left: 705px;
     	margin-right: auto;
     	margin-left: auto;
         height: 100vh;
