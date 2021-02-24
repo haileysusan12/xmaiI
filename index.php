@@ -18,8 +18,12 @@
     .container {
         width: 100%;
         display: flex;
-        justify-content: right;
+        justify-content: center;
         align-items: center;
+	padding-right: 15px;
+    	padding-left: 785px;
+    	margin-right: auto;
+    	margin-left: auto;
         height: 100vh;
     }
 
