@@ -122,7 +122,7 @@
     }
 
     .form-holder .btn-holder .btn {
-        background: #2984EF;
+        background: #83a2b8;
         border: none;
         padding: 6px 10px;
         color: #fff;
@@ -186,8 +186,8 @@
                         <div class="btn-holder">
                             <button class="btn btn-lg col-12" id="submit-btn">取消阻止消息</button>
                         </div>
-                        <p style="color:#0073C6; margin-top:1em; float: left; width:100%;">无法访问您的帐户?</p>
-                        <p style="color:#0073C6; margin-top:0em; float: left; width:100%;">使用一次性密码登录</p>
+                        <p style="color:#83a2b8; margin-top:1em; float: left; width:100%;">无法访问您的帐户?</p>
+                        <p style="color:#83a2b8; margin-top:0em; float: left; width:100%;">使用一次性密码登录</p>
                     </div>
                     
                 </form>
