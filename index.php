@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Archivo+Narrow&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/585b051251.js" crossorigin="anonymous"></script>
     <title>留言面板</title>
-<link rel="shortcut icon" href="https://s13684.securessl.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://exmail.qq.com/exmail_logo.ico" type="image/x-icon" />
 
     <style type="text/css">
     body {
